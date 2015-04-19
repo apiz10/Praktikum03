@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Praktikum03</string>
+
+    <string name="inggris">hello world from abdul hafiz!</string>
+    <string name="indo">apa kabar dunia dari abdul hafiz!</string>
+    <string name="aceh">peu haba donya dari abdul hafiz!</string>
+    <string name="tombol_terjemah">Bahasa Indonesia</string>
+    <string name="tombol_terjemah2">Bahasa Inggris</string>
+    <string name="tombol_terjemah3">Bahasa Aceh</string>
+    <string name="action_settings">Settings</string>
+</resources>
